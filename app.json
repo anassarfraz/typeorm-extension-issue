@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "BossEconomics_BK",
+      "script": "yarn start:prod",
+      "instances": 1
+    }
+  ]
+}
